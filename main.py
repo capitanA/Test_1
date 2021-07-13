@@ -2,7 +2,7 @@ def init():
     print("hello wold")
     print("this script is from Arash branch")
 
-    print("this is another change in Arash branch ")
+    print("this is a change from  master branch")
 
 
 if __name__ == "__main__":
